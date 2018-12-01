@@ -5,5 +5,5 @@ import $package$.$module2;format="word"$
 
 
 object $appname;format="Camel"$ extends App {
-      println("Hello, world!")
+  println("Hello, world!")
 }
